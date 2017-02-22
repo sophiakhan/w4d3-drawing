@@ -1,0 +1,13 @@
+.round {
+    border: none;
+    border-radius: 10px;
+    padding: 30px;
+    background: pink; 
+}
+
+.circle {
+    border: none;
+    border-radius: 50%;
+    padding: 30px;
+    background: pink; 
+}
