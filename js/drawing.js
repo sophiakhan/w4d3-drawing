@@ -26,8 +26,5 @@ function growBoxes() {
                 e.target.style.height = '15px';
             }
 
-        console.log(e.target.style.width)
-            console.log(e.target.style.height)
-
     });
 }
